@@ -1,0 +1,5 @@
+C:\Users\Maxim\Documents\Visual Studio 2015\Projects\MChistyakov\MyTask\bin\Debug\MyTask.dll
+C:\Users\Maxim\Documents\Visual Studio 2015\Projects\MChistyakov\MyTask\bin\Debug\MyTask.pdb
+C:\Users\Maxim\Documents\Visual Studio 2015\Projects\MChistyakov\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Documents\Visual Studio 2015\Projects\MChistyakov\MyTask\obj\Debug\MyTask.dll
+C:\Users\Maxim\Documents\Visual Studio 2015\Projects\MChistyakov\MyTask\obj\Debug\MyTask.pdb
